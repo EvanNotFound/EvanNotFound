@@ -27,8 +27,19 @@ My personal blog (aka Anonymous Land): https://www.evanluo.top/
 <h2 align="center">Minecraft Hypixel Stats</h1>
 
 <p align="center"> 
-  <img src="https://hypixel.paniek.de/signature/9056c9b7f68e4382b3387bb8d90b5e6f/general-tooltip">
+  <b>Username:</b> JustBliTS
 </p>
+
+
+<p align="center"> 
+</p>
+
+
 <p align="center"> 
 <img src="https://gen.plancke.io/exp/JustBliTS.png" width="500px">
 </p>
+
+<p align="center"> 
+  <img src="https://hypixel.paniek.de/signature/9056c9b7f68e4382b3387bb8d90b5e6f/general-tooltip">
+</p>
+
