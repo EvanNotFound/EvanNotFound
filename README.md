@@ -20,7 +20,7 @@ My personal blog (aka Anonymous Land): https://www.evanluo.top/
 
 <p align="center"> 
   <a href="https://www.evanluo.top">
-    <img src="https://raw.githubusercontent.com/EvanNotFound/EvanNotFound/main/AnonLand_svg_white_96px.svg">
+    <img src="https://raw.githubusercontent.com/EvanNotFound/EvanNotFound/main/AnonymousLand_neon_96px.svg">
   </a>
 </p>
 
