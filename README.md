@@ -1,8 +1,16 @@
 # Hi there 👋
 
-I'm Evan from Shanghai. A **Grade 9** Student. 
+一个上海中学生，平时比较闲，不喜欢卷~~但也没办法~~，自学过一点点 Python，也会一点建模（用的Solidworks，~~NX太难用了~~)。
 
-I'm actually **bad** at code lol
+Politically active. 一般喜欢膜来膜去，经常把时间荒废在~~水~~写Blog上面
+
+&nbsp;
+
+A **Grade 9** Student from Shanghai who have ~~a lot of~~ a little free time. I have learned a liitle bit of Python and Solidworks.
+
+
+
+Actually I'm **bad** at code lol.
   
 </p>
 
