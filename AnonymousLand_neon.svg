@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 720 150" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="101.92" y1="29.673" x2="101.92" y2="74.818" id="gradient-10" gradientTransform="matrix(0.999998, 0.001499, -0.001135, 0.659915, 0.033808, 24.221537)">
+      <stop offset="0" style="stop-color: rgb(12, 157, 215);"/>
+      <stop offset="1" style="stop-color: rgb(7, 87, 118);"/>
+    </linearGradient>
+    <filter id="drop-shadow-filter-0" x="-500%" y="-500%" width="1000%" height="1000%" bx:preset="drop-shadow 1 0 0 5 0.55 rgba(31,131,172,1)">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="5"/>
+      <feOffset dx="0" dy="0"/>
+      <feComponentTransfer result="offsetblur">
+        <feFuncA id="spread-ctrl" type="linear" slope="1.1"/>
+      </feComponentTransfer>
+      <feFlood flood-color="rgba(31,131,172,1)"/>
+      <feComposite in2="offsetblur" operator="in"/>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="146.883" y1="43.956" x2="146.883" y2="75.617" id="gradient-0">
+      <stop offset="0" style="stop-color: rgba(12, 157, 215, 1)"/>
+      <stop offset="1" style="stop-color: rgba(7, 87, 118, 1)"/>
+    </linearGradient>
+    <filter id="drop-shadow-filter-2" x="-500%" y="-500%" width="1000%" height="1000%" bx:preset="drop-shadow 1 0 0 5 0.55 rgba(31,131,172,1)">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="5"/>
+      <feOffset dx="0" dy="0"/>
+      <feComponentTransfer result="offsetblur">
+        <feFuncA id="spread-ctrl" type="linear" slope="1.1"/>
+      </feComponentTransfer>
+      <feFlood flood-color="rgba(31,131,172,1)"/>
+      <feComposite in2="offsetblur" operator="in"/>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="pattern-0-0" patternTransform="matrix(-1.829549, -0.254968, 0.283995, -2.037842, 207.903343, 90.33759)" xlink:href="#pattern-0"/>
+    <pattern x="0" y="0" width="25" height="25" patternUnits="userSpaceOnUse" viewBox="0 0 100 100" id="pattern-0">
+      <rect width="8.484" height="100" style="fill: rgb(255, 215, 0);" transform="matrix(1, 0, -1.060379, 1, 20.749039, 0)"/>
+      <rect width="8.484" height="100" style="fill: rgb(255, 215, 0);" transform="matrix(1, 0, -1.060379, 1, 3.992894, 0)"/>
+      <rect width="8.484" height="100" style="fill: rgb(255, 215, 0);" transform="matrix(1, 0, -1.060379, 1, 54.594826, 0)"/>
+      <rect width="8.484" height="100" style="fill: rgb(255, 215, 0);" transform="matrix(1, 0, -1.060379, 1, 37.838676, 0)"/>
+      <rect width="8.484" height="100" style="fill: rgb(255, 215, 0);" transform="matrix(1, 0, -1.060379, 1, 88.171379, 0)"/>
+      <rect width="8.484" height="100" style="fill: rgb(255, 215, 0);" transform="matrix(1, 0, -1.060379, 1, 71.41523, 0)"/>
+      <rect width="8.484" height="100" style="fill: rgb(255, 215, 0);" transform="matrix(1, 0, -1.060379, 1, 121.846748, 0)"/>
+      <rect width="8.484" height="100" style="fill: rgb(255, 215, 0);" transform="matrix(1, 0, -1.060379, 1, 105.090599, 0)"/>
+      <rect width="8.484" height="100" style="fill: rgb(255, 215, 0);" transform="matrix(1, 0, -1.060379, 1, 156.201569, 0)"/>
+      <rect width="8.484" height="100" style="fill: rgb(255, 215, 0);" transform="matrix(1, 0, -1.060379, 1, 139.445435, 0)"/>
+      <rect width="8.484" height="100" style="fill: rgb(255, 215, 0);" transform="matrix(1, 0, -1.060379, 1, 190.516006, 0)"/>
+      <rect width="8.484" height="100" style="fill: rgb(255, 215, 0);" transform="matrix(1, 0, -1.060379, 1, 173.759857, 0)"/>
+    </pattern>
+    <filter id="drop-shadow-filter-1" x="-500%" y="-500%" width="1000%" height="1000%" bx:preset="drop-shadow 1 0 0 5 0.74 rgba(236,200,0,1)">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="5"/>
+      <feOffset dx="0" dy="0"/>
+      <feComponentTransfer result="offsetblur">
+        <feFuncA id="spread-ctrl" type="linear" slope="1.48"/>
+      </feComponentTransfer>
+      <feFlood flood-color="rgba(236,200,0,1)"/>
+      <feComposite in2="offsetblur" operator="in"/>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="229.646" y1="44.468" x2="229.646" y2="75.617" id="gradient-1">
+      <stop offset="0" style="stop-color: rgba(12, 157, 215, 1)"/>
+      <stop offset="1" style="stop-color: rgba(7, 87, 118, 1)"/>
+    </linearGradient>
+    <filter id="drop-shadow-filter-3" x="-500%" y="-500%" width="1000%" height="1000%" bx:preset="drop-shadow 1 0 0 5 0.54 rgba(31,131,172,1)">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="5"/>
+      <feOffset dx="0" dy="0"/>
+      <feComponentTransfer result="offsetblur">
+        <feFuncA id="spread-ctrl" type="linear" slope="1.08"/>
+      </feComponentTransfer>
+      <feFlood flood-color="rgba(31,131,172,1)"/>
+      <feComposite in2="offsetblur" operator="in"/>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="253.771" y1="70.618" x2="253.771" y2="73.176" id="gradient-2" gradientTransform="matrix(0.996358, -0.085269, 0.361903, 2.770075, -24.632639, -103.360343)">
+      <stop offset="0" style="stop-color: rgba(12, 157, 215, 1)"/>
+      <stop offset="1" style="stop-color: rgba(7, 87, 118, 1)"/>
+    </linearGradient>
+    <filter id="drop-shadow-filter-5" x="-500%" y="-500%" width="1000%" height="1000%" bx:preset="drop-shadow 1 0 0 5 0.55 rgba(31,131,172,1)">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="5"/>
+      <feOffset dx="0" dy="0"/>
+      <feComponentTransfer result="offsetblur">
+        <feFuncA id="spread-ctrl" type="linear" slope="1.1"/>
+      </feComponentTransfer>
+      <feFlood flood-color="rgba(31,131,172,1)"/>
+      <feComposite in2="offsetblur" operator="in"/>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="292.491" y1="30.76" x2="292.491" y2="72.618" id="gradient-15" gradientTransform="matrix(1, 0, 0, 0.684744, 0, 22.893288)">
+      <stop offset="0" style="stop-color: rgb(12, 157, 215);"/>
+      <stop offset="1" style="stop-color: rgb(7, 87, 118);"/>
+    </linearGradient>
+    <filter id="drop-shadow-filter-6" x="-500%" y="-500%" width="1000%" height="1000%" bx:preset="drop-shadow 1 0 0 5 0.55 rgba(31,131,172,1)">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="5"/>
+      <feOffset dx="0" dy="0"/>
+      <feComponentTransfer result="offsetblur">
+        <feFuncA id="spread-ctrl" type="linear" slope="1.1"/>
+      </feComponentTransfer>
+      <feFlood flood-color="rgba(31,131,172,1)"/>
+      <feComposite in2="offsetblur" operator="in"/>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="326.892" y1="43.956" x2="326.892" y2="75.617" id="gradient-16">
+      <stop offset="0" style="stop-color: rgb(12, 157, 215);"/>
+      <stop offset="1" style="stop-color: rgb(7, 87, 118);"/>
+    </linearGradient>
+    <filter id="drop-shadow-filter-7" x="-500%" y="-500%" width="1000%" height="1000%" bx:preset="drop-shadow 1 0 0 5 0.55 rgba(31,131,172,1)">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="5"/>
+      <feOffset dx="0" dy="0"/>
+      <feComponentTransfer result="offsetblur">
+        <feFuncA id="spread-ctrl" type="linear" slope="1.1"/>
+      </feComponentTransfer>
+      <feFlood flood-color="rgba(31,131,172,1)"/>
+      <feComposite in2="offsetblur" operator="in"/>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="364.478" y1="44.445" x2="364.478" y2="75.617" id="gradient-17">
+      <stop offset="0" style="stop-color: rgb(12, 157, 215);"/>
+      <stop offset="1" style="stop-color: rgb(7, 87, 118);"/>
+    </linearGradient>
+    <filter id="drop-shadow-filter-8" x="-500%" y="-500%" width="1000%" height="1000%" bx:preset="drop-shadow 1 0 0 5 0.55 rgba(31,131,172,1)">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="5"/>
+      <feOffset dx="0" dy="0"/>
+      <feComponentTransfer result="offsetblur">
+        <feFuncA id="spread-ctrl" type="linear" slope="1.1"/>
+      </feComponentTransfer>
+      <feFlood flood-color="rgba(31,131,172,1)"/>
+      <feComposite in2="offsetblur" operator="in"/>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="403.303" y1="26.666" x2="403.303" y2="72.618" id="gradient-18" gradientTransform="matrix(0.999998, -0.001788, 0.001239, 0.623738, -0.089293, 28.044461)">
+      <stop offset="0" style="stop-color: rgb(12, 157, 215);"/>
+      <stop offset="1" style="stop-color: rgb(7, 87, 118);"/>
+    </linearGradient>
+    <filter id="drop-shadow-filter-9" x="-500%" y="-500%" width="1000%" height="1000%" bx:preset="drop-shadow 1 0 0 5 0.55 rgba(31,131,172,1)">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="5"/>
+      <feOffset dx="0" dy="0"/>
+      <feComponentTransfer result="offsetblur">
+        <feFuncA id="spread-ctrl" type="linear" slope="1.1"/>
+      </feComponentTransfer>
+      <feFlood flood-color="rgba(31,131,172,1)"/>
+      <feComposite in2="offsetblur" operator="in"/>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="253.748" y1="71.015" x2="253.748" y2="73.01" id="gradient-19" gradientTransform="matrix(0.999699, -0.024583, 0.598054, 3.512631, -42.285483, -172.593532)">
+      <stop offset="0" style="stop-color: rgb(12, 157, 215);"/>
+      <stop offset="1" style="stop-color: rgb(7, 87, 118);"/>
+    </linearGradient>
+    <filter id="drop-shadow-filter-4" x="-500%" y="-500%" width="1000%" height="1000%" bx:preset="drop-shadow 1 0 0 5 0.55 rgba(31,131,172,1)">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="5"/>
+      <feOffset dx="0" dy="0"/>
+      <feComponentTransfer result="offsetblur">
+        <feFuncA id="spread-ctrl" type="linear" slope="1.1"/>
+      </feComponentTransfer>
+      <feFlood flood-color="rgba(31,131,172,1)"/>
+      <feComposite in2="offsetblur" operator="in"/>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <g transform="matrix(1.780986, 0, 0, 1.780986, -94.176453, -22.415205)" style="filter: none;">
+    <title>Layer 1</title>
+    <g id="svg_46" transform="matrix(1.108418, 0, 0, 1.108418, -22.975698, -2.957178)" style="">
+      <path stroke-width="6" id="svg_5" d="m85.182,74.81757l17.10026,-45.14412l16.3762,45.03455" opacity="NaN" fill="none" style="stroke: url(#gradient-10); paint-order: fill; filter: url(#drop-shadow-filter-0);"/>
+      <path id="svg_9" d="M 135.519 75.617 L 135.731 44.98 L 158.248 43.956 L 158.248 73.638" opacity="NaN" stroke-width="6" fill="none" style="stroke: url(#gradient-0); filter: url(#drop-shadow-filter-2);"/>
+      <ellipse ry="14.77007" rx="14.32917" id="svg_14" cy="58.97779" cx="188.4146" style="stroke: url(#pattern-0-0); fill: none; filter: url(#drop-shadow-filter-1);" stroke-width="7"/>
+      <path id="svg_25" d="M 218.281 75.617 L 218.494 45.492 L 241.011 44.468 L 241.011 74.15" opacity="NaN" stroke-width="7" fill="none" style="stroke: url(#gradient-1); filter: url(#drop-shadow-filter-3);"/>
+      <path id="svg_31" d="M 253.77 73.176 C 253.064 73.176 252.491 72.604 252.491 71.897 C 252.491 71.19 253.064 70.618 253.77 70.618 C 254.477 70.618 255.05 71.19 255.05 71.897 C 255.05 72.604 254.477 73.176 253.77 73.176 Z" opacity="undefined" stroke-width="5" style="fill: rgba(222, 199, 199, 0); stroke: url(#gradient-2); filter: url(#drop-shadow-filter-5);"/>
+      <path id="svg_32" d="M 280.808 30.76 L 281.012 72.618 L 304.174 69.561" opacity="NaN" stroke-width="7" fill="none" style="stroke: url(#gradient-15); filter: url(#drop-shadow-filter-6);"/>
+      <path id="svg_35" d="M 337.583 75.617 L 337.894 43.956 L 315.889 44.98 L 315.889 71.591 L 337.086 68.134" opacity="NaN" stroke-width="7" fill="none" style="stroke: url(#gradient-16); filter: url(#drop-shadow-filter-7);"/>
+      <path id="svg_37" d="M 353.147 75.617 L 353.292 45.468 L 375.809 44.445 L 375.809 74.127" opacity="NaN" stroke-width="7" fill="none" style="stroke: url(#gradient-17); filter: url(#drop-shadow-filter-8);"/>
+      <path id="svg_38" d="M 414.606 26.666 L 414.306 71.591 L 391.909 72.618 L 391.789 46.003 L 414.818 44.468" opacity="NaN" stroke-width="7" fill="none" style="stroke: url(#gradient-18); filter: url(#drop-shadow-filter-9);"/>
+      <path style="fill: rgba(222, 199, 199, 0); stroke: url(#gradient-19); filter: url(#drop-shadow-filter-4);" d="M 254.105 72.414 C 254.809 73.355 254.689 71.25 254.689 71.25 C 254.556 71.019 254.015 70.968 253.368 71.054 C 252.958 71.26 252.241 72.27 253.544 72.984 C 254.094 73.286 253.409 70.793 254.105 72.414 Z"/>
+    </g>
+  </g>
+</svg>
