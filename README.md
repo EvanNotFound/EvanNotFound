@@ -1,21 +1,18 @@
 # Hi there 👋
 
-一个枫叶国高中生，平时比较闲，不喜欢卷，自学过一点点 Python，也会一点建模（用的Solidworks，~~NX太难用了~~)，还会 html和css。
+一个枫叶国高中生，平时比较闲，不喜欢卷，精通 html 和 css，主要做 Web UI设计。自学过一点点 Python，也会一点建模（用的Solidworks。
 
-Politically active. 一般喜欢膜来膜去，经常把时间荒废在~~水~~写Blog上面
+Politically active. 喜欢膜来膜去，经常把时间荒废在~~水~~写/优化Blog上面
 
 &nbsp;
 
-A **Grade 10** Student in Canada who have ~~a lot of~~ a little free time. I have learned a liitle bit of Python, Solidworks and html/css.
+A **Grade 10** Student in Canada who have a lot of free time. I'm good at HTML and CSS. I have learned a liitle bit of Python, Solidworks.
 
-
-
-Actually I'm **bad** at code lol.
   
 </p>
 
 
-My personal blog (aka Anonymous Land): https://www.evanluo.top/
+My personal blog (aka Anonymous Land): [https://www.evanluo.top/](https://www.evanluo.top/)
 
 
 <p align="center"> 
