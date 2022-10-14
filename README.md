@@ -1,6 +1,6 @@
 # Hi there 👋
 
-一个枫叶国高中生，平时比较闲，不喜欢卷，精通 html 和 css，主要做 Web UI设计。自学过一点点 Python，也会一点建模（用的Solidworks。
+一个枫叶国高中生，平时比较闲，不喜欢卷，主要写 html 和 css，主要做 Web UI设计。自学过一点点 Python，也会一点建模（用的Solidworks。
 
 Politically active. 喜欢膜来膜去，经常把时间荒废在~~水~~写/优化Blog上面
 
