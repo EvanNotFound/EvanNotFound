@@ -26,7 +26,7 @@ My personal blog (aka Anonymous Land): [https://www.evanluo.top/](https://www.ev
 <h2 align="center">Github Stats</h1>
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=evannotfound&show_icons=true&theme=algolia&hide_border=1)](https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=evannotfound&show_icons=true&theme=algolia&hide_border=1">
 </p>
 
 <p align="center"> 
