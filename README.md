@@ -29,6 +29,10 @@ My personal blog (aka Anonymous Land): [https://www.evanluo.top/](https://www.ev
   <img src="https://github-readme-stats.vercel.app/api?username=evannotfound&show_icons=true&theme=algolia&hide_border=1)](https://github.com/anuraghazra/github-readme-stats">
 </p>
 
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evannotfound&show_icons=true&theme=algolia&hide_border=1&layout=compact">
+</p>
+
 <h2 align="center">Minecraft Hypixel Stats</h1>
 
 <p align="center"> 
