@@ -4,19 +4,19 @@
 
 Politically active. 喜欢膜来膜去，经常把时间荒废在~~水~~写/优化Blog上面
 
-关于我的 Portfolio，请访问：https://portfolio.ohevan.com
+关于我的 Portfolio，请访问：[portfolio.ohevan.com](https://portfolio.ohevan.com)
 
 
 &nbsp;
 
 A **Grade 10** Student in Canada who have a lot of free time. I'm good at HTML and CSS. I have learned a liitle bit of Python, Solidworks.
 
-More info about me, please go to my portfolio [https://about.evanluo.top](https://portfolio.ohevan.com)
+More info about me, please go to my portfolio [about.evanluo.top](https://portfolio.ohevan.com)
   
 </p>
 
 
-My personal blog (aka Anonymous Land): [https://ohevan.com](https://ohevan.com)
+My personal blog (aka Anonymous Land): [ohevan.com](https://ohevan.com)
 
 
 <p align="center"> 
