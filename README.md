@@ -1,22 +1,22 @@
-# Hi there 👋
+# Hello 👋
 
-一个枫叶国高中生，平时比较闲，不喜欢卷，主要写 html 和 css，主要做 Web UI设计。自学过一点点 Python，也会一点建模（用的Solidworks。
+我是一名加拿大高中生，平时有很多空闲时间。我擅长 HTML 和 CSS，并且自学过一点 Python。我喜欢做 Web UI 设计和使用 Solidworks 进行建模。
 
-Politically active. 喜欢膜来膜去，经常把时间荒废在~~水~~写/优化Blog上面
+我对政治比较感兴趣，喜欢把时间花在写作和优化我的博客上。
 
-关于我的 Portfolio，请访问：[portfolio.ohevan.com](https://portfolio.ohevan.com)
+如需了解更多关于我的信息，请访问我的个人 Portfolio：[portfolio.ohevan.com](https://portfolio.ohevan.com)
 
+这是我的博客：[ohevan.com](https://ohevan.com)
 
-&nbsp;
+---
 
-A **Grade 10** Student in Canada who have a lot of free time. I'm good at HTML and CSS. I have learned a liitle bit of Python, Solidworks.
+I'm a high school student in Canada. I have a lot of free time and I like to spend it learning new things. I'm skilled in HTML and CSS, and I have also learned a little bit of Python. I enjoy doing web UI design and modeling using Solidworks.
 
-More info about me, please go to my portfolio [about.evanluo.top](https://portfolio.ohevan.com)
-  
-</p>
+I'm politically active and I like to spend my time writing and optimizing my blog.
 
+For more information about me, please visit my portfolio: [portfolio.ohevan.com](https://portfolio.ohevan.com)
 
-My personal blog (aka Anonymous Land): [ohevan.com](https://ohevan.com)
+My personal blog: [ohevan.com](https://ohevan.com)
 
 
 <p align="center"> 
