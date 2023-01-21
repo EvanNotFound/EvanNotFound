@@ -42,6 +42,13 @@ My personal blog: [ohevan.com](https://ohevan.com)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evannotfound&show_icons=true&theme=algolia&hide_border=1&layout=compact">
 </p>
 
+<h4 align="center"> Trophies </h4>
+<p align="center"> 
+  <img src="https://github-profile-trophy.vercel.app/?username=evannotfound&theme=algolia">
+</p>
+
+
+
 <h4 align="center">Visitor Count</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{EvanNotFound}/count.svg" alt="EvanNotFound :: Visitor's Count" /></p>
