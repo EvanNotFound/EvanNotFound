@@ -44,7 +44,7 @@ My personal blog: [ohevan.com](https://ohevan.com)
 
 <h4 align="center"> Trophies </h4>
 <p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=evannotfound&theme=algolia">
+  <img src="https://github-profile-trophy.vercel.app/?username=evannotfound&theme=algolia&column=4&margin-w=15&margin-h=15">
 </p>
 
 
