@@ -49,11 +49,11 @@ My personal blog: [ohevan.com](https://ohevan.com)
 
 
 
-<h4 align="center">} visitorCount = () => {</h4>
+<h4 align="center">} visitorCount = (view, ip) => {</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{EvanNotFound}/count.svg" alt="EvanNotFound :: Visitor's Count" /></p>
 
-<h4 align="center">} minecraftHypixelStats = () => {</h4>
+<h4 align="center">} minecraftHypixelStats = (justblits) => {</h4>
 
 <p align="center"> 
 <img src="https://gen.plancke.io/exp/JustBliTS.png" width="500px">
