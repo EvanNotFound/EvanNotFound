@@ -1,3 +1,9 @@
+<p align="center"> 
+  <a href="https://ohevan.com">
+    <img src="https://raw.githubusercontent.com/EvanNotFound/EvanNotFound/main/AnonymousLand_neon_96px.svg">
+  </a>
+</p>
+
 # console.log("Hello 👋");
 
 我是一名加拿大高中生，平时有很多空闲时间。我擅长 HTML 和 CSS，并且自学过一点 Python。我喜欢做 Web UI 设计和使用 Solidworks 进行建模。
@@ -9,9 +15,7 @@
 这是我的博客：[ohevan.com](https://ohevan.com)
 
 
-
-
----
+`//-------------- EN Version ------------------`
 
 I'm a high school student in Canada. I have a lot of free time and I like to spend it learning new things. I'm skilled in HTML and CSS, and I have also learned a little bit of Python. I enjoy doing web UI design and modeling using Solidworks.
 
@@ -22,11 +26,7 @@ For more information about me, please visit my portfolio: [portfolio.ohevan.com]
 My personal blog: [ohevan.com](https://ohevan.com)
 
 
-<p align="center"> 
-  <a href="https://ohevan.com">
-    <img src="https://raw.githubusercontent.com/EvanNotFound/EvanNotFound/main/AnonymousLand_neon_96px.svg">
-  </a>
-</p>
+
 
 
 
