@@ -30,30 +30,30 @@ My personal blog: [ohevan.com](https://ohevan.com)
 
 
 
-<h2 align="center">Github Stats </h1>
+<h2 align="center"> Github Stats </h1>
 
-<h4 align="center"> Stats </h4>
+<h4 align="center"> stats = (evannotfound) => {</h4>
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=evannotfound&show_icons=true&theme=algolia&hide_border=1">
 </p>
 
-<h4 align="center"> Lang </h4>
+<h4 align="center"> } lang = () => { </h4>
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evannotfound&show_icons=true&theme=algolia&hide_border=1&layout=compact">
 </p>
 
-<h4 align="center"> Trophies </h4>
+<h4 align="center"> } trophies = () => {</h4>
 <p align="center"> 
   <img src="https://github-profile-trophy.vercel.app/?username=evannotfound&theme=algolia&column=4&margin-w=15&margin-h=15">
 </p>
 
 
 
-<h4 align="center">Visitor Count</h4>
+<h4 align="center">} visitorCount = () => {</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{EvanNotFound}/count.svg" alt="EvanNotFound :: Visitor's Count" /></p>
 
-<h4 align="center">Minecraft Hypixel Stats</h4>
+<h4 align="center">} minecraftHypixelStats = () => {</h4>
 
 <p align="center"> 
 <img src="https://gen.plancke.io/exp/JustBliTS.png" width="500px">
@@ -66,4 +66,5 @@ My personal blog: [ohevan.com](https://ohevan.com)
 <p align="center"> 
   <img src="https://hypixel.paniek.de/signature/9056c9b7f68e4382b3387bb8d90b5e6f/general-tooltip">
 </p>
+<h4 align="center">}</h4>
 
