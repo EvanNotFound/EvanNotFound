@@ -60,6 +60,10 @@ My personal blog: [ohevan.com](https://ohevan.com)
 </p>
 
 <p align="center"> 
+<img src="https://gen.plancke.io/achievementPoints/JustBliTS.png" width="500px">
+</p>
+
+<p align="center"> 
   <img src="https://hypixel.paniek.de/signature/9056c9b7f68e4382b3387bb8d90b5e6f/general-tooltip">
 </p>
 
