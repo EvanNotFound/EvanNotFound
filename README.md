@@ -16,6 +16,8 @@
 
 这是我的博客：[ohevan.com](https://ohevan.com)
 
+来都来了，Github 点个关注再走呗～
+
 
 `//-------------- EN Version ------------------`
 
