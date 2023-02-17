@@ -12,7 +12,7 @@
 
 我对政治比较感兴趣，喜欢把时间花在写作和优化我的博客上。
 
-如需了解更多关于我的信息，请访问我的个人 Portfolio：[portfolio.ohevan.com](https://portfolio.ohevan.com)
+如需了解更多关于我的作品，请访问我的个人 Portfolio：[portfolio.ohevan.com](https://portfolio.ohevan.com)
 
 这是我的博客：[ohevan.com](https://ohevan.com)
 
@@ -25,7 +25,7 @@ I'm a high school student in Canada. I have a lot of free time and I like to spe
 
 I'm politically active and I like to spend my time writing and optimizing my blog.
 
-For more information about me, please visit my portfolio: [portfolio.ohevan.com](https://portfolio.ohevan.com)
+For more projects about me, please visit my portfolio: [portfolio.ohevan.com](https://portfolio.ohevan.com)
 
 My personal blog: [ohevan.com](https://ohevan.com)
 
