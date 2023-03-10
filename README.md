@@ -8,9 +8,9 @@
 
 # console.log("Hello 👋");
 
-我是一名加拿大高中生，平时有很多空闲时间。我擅长 HTML 和 CSS，并且自学过一点 Python。我喜欢做 Web UI 设计和使用 Solidworks 进行建模。
+一名加拿大高中生，平时有很多空闲时间。比较擅长 HTML 和 CSS，学过一点 Python。爱好 Web UI 设计，以及用 Solidworks 进行建模。
 
-我对政治比较感兴趣，喜欢把时间花在写作和优化我的博客上。
+主要维护 Hexo 主题项目。
 
 如需了解更多关于我的作品，请访问我的个人 Portfolio：[portfolio.ohevan.com](https://portfolio.ohevan.com)
 
