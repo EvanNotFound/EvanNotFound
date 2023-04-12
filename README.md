@@ -34,41 +34,48 @@ My personal blog: [ohevan.com](https://ohevan.com)
 
 
 
-<h2 align="center"> Github Stats </h1>
+<h2 align="center">GitHub Stats</h2>
 
-<h4 align="center"> stats = (evannotfound) => {</h4>
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=evannotfound&show_icons=true&theme=algolia&hide_border=1">
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EvanNotFound&show_icons=true&count_private=true&hide_border=true&theme=algolia" alt="Evan's GitHub Stats"/>
+</div>
 
-<h4 align="center"> } lang = () => { </h4>
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evannotfound&show_icons=true&theme=algolia&hide_border=1&layout=compact">
-</p>
+<br>
 
-<h4 align="center"> } trophies = () => {</h4>
-<p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=evannotfound&theme=algolia&column=4&margin-w=15&margin-h=15">
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvanNotFound&layout=compact&hide_border=true&theme=algolia" alt="Evan's Top Languages"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=EvanNotFound&theme=algolia&column=4&margin-w=15&margin-h=15&no-frame=true" alt="Evan's GitHub Trophies"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/{EvanNotFound}/count.svg" alt="Visitor Count" />
+</div>
 
 
+<h2 align="center">Minecraft Hypixel Stats</h2>
 
-<h4 align="center">} visitorCount = (view, ip) => {</h4>
+<p align="center">I love playing Minecraft, specifically on the Hypixel server. Here are some of my stats:</p>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{EvanNotFound}/count.svg" alt="EvanNotFound :: Visitor's Count" /></p>
+<div align="center">
+  <img width="500px" src="https://gen.plancke.io/exp/6eek.png" alt="6eek's Minecraft Hypixel Experience"/>
+</div>
 
-<h4 align="center">} minecraftHypixelStats = (6eek) => {</h4>
+<br>
 
-<p align="center"> 
-<img src="https://gen.plancke.io/exp/6eek.png" width="500px">
-</p>
+<div align="center">
+  <img width="500px" src="https://gen.plancke.io/achievementPoints/6eek.png" alt="6eek's Minecraft Hypixel Achievement Points"/>
+</div>
 
-<p align="center"> 
-<img src="https://gen.plancke.io/achievementPoints/6eek.png" width="500px">
-</p>
+<br>
 
-<p align="center"> 
-  <img src="https://user-images.githubusercontent.com/68590232/215273015-d2c18953-b5c0-48d7-bef7-dcaec677eef0.png">
-</p>
-<h4 align="center">}</h4>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/68590232/215273015-d2c18953-b5c0-48d7-bef7-dcaec677eef0.png" alt="Hypixel Bedwars Stats"/>
+</div>
 
