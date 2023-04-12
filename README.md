@@ -57,7 +57,7 @@ My personal blog: [ohevan.com](https://ohevan.com)
 
 <p align="center"><img src="https://profile-counter.glitch.me/{EvanNotFound}/count.svg" alt="EvanNotFound :: Visitor's Count" /></p>
 
-<h4 align="center">} minecraftHypixelStats = 6eek) => {</h4>
+<h4 align="center">} minecraftHypixelStats = (6eek) => {</h4>
 
 <p align="center"> 
 <img src="https://gen.plancke.io/exp/6eek.png" width="500px">
