@@ -76,6 +76,6 @@ My personal blog: [ohevan.com](https://ohevan.com)
 <br>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/68590232/215273015-d2c18953-b5c0-48d7-bef7-dcaec677eef0.png" alt="Hypixel Bedwars Stats"/>
+  <img src="https://hypixel.paniek.de/signature/9056c9b7f68e4382b3387bb8d90b5e6f/general-tooltip" alt="Hypixel Bedwars Stats"/>
 </div>
 
