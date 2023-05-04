@@ -18,6 +18,8 @@
 
 来都来了，Github 点个关注再走呗～
 
+支持我：[赞助](/DONATE.md)
+
 
 `//-------------- EN Version ------------------`
 
@@ -28,6 +30,8 @@ I'm politically active and I like to spend my time writing and optimizing my blo
 For more projects about me, please visit my portfolio: [portfolio.ohevan.com](https://portfolio.ohevan.com)
 
 My personal blog: [ohevan.com](https://ohevan.com)
+
+Support me: [DONATE](/DONATE.md)
 
 
 
