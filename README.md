@@ -36,7 +36,7 @@ For more projects about me, please see:
 - My portfolio: [portfolio.ohevan.com](https://portfolio.ohevan.com)
 - My personal blog: [ohevan.com](https://ohevan.com)
 
-Buy me a coffee to support my works? [Donate](/DONATE.md) <3`
+Buy me a coffee to support my works? [Donate](/DONATE.md) <3
 ```
 } else if (language.startsWith("fr")) { introduction = 
 ```
