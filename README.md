@@ -47,19 +47,19 @@ Tu veux m'offrir un p'tit café pour soutenir mes travaux ? [Faire un don](/DONA
 <h2 align="center">GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EvanNotFound&show_icons=true&count_private=true&hide_border=true&theme=algolia" alt="Evan's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=EvanNotFound&show_icons=true&count_private=true&hide_border=false&theme=flat&no-bg=true" alt="Evan's GitHub Stats"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvanNotFound&layout=compact&hide_border=true&theme=algolia" alt="Evan's Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvanNotFound&layout=compact&hide_border=false&theme=flat&no-bg=true" alt="Evan's Top Languages"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=EvanNotFound&theme=algolia&column=4&margin-w=15&margin-h=15&no-frame=true" alt="Evan's GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=EvanNotFound&theme=flat&column=4&margin-w=15&margin-h=15&no-frame=false&rank=-C,-B&no-bg=true" alt="Evan's GitHub Trophies"/>
 </div>
 
 <br>
