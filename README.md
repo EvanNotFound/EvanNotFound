@@ -10,7 +10,7 @@
 
 `//zh`
 
-一名加拿大高中生，平时蛮闲的，喜欢 WebUI Design(HTML, CSS, Javascript)，学过一点 Python 和 C++。
+一名加拿大高中生，平时蛮闲的，主要前端开发 (HTML, CSS, Javascript, React, NextJS) 和 UI/UX 设计，学过一点 Python 和 C++。
 
 主要维护 Hexo 主题项目。
 
