@@ -15,7 +15,7 @@
 主要维护 Hexo 主题项目。
 
 如需了解更多关于我的信息和作品，请访问：
-- 个人 Portfolio：[portfolio.ohevan.com](https://portfolio.ohevan.com)
+- 个人 Portfolio：[evan.studio](https://evan.studio)
 - 个人博客：[ohevan.com](https://ohevan.com)
 
 来都来了，Github 点个关注再走呗～ 同时[赞助](/DONATE.md)我是支持我努力下去的动力
@@ -27,7 +27,7 @@ I'm a high school student in Canada with a lot of free time. I like to spend it 
 
 For more projects about me, please see:
 
-- My portfolio: [portfolio.ohevan.com](https://portfolio.ohevan.com)
+- My portfolio: [evan.studio](https://evan.studio)
 - My personal blog: [ohevan.com](https://ohevan.com)
 
 Buy me a coffee to support my works? [Donate](/DONATE.md) <3
@@ -38,7 +38,7 @@ J'suis un étudiant au secondaire au Canada avec pas mal de temps libre. J'aime 
 
 Pour en savoir plus sur mes projets, y'a :
 
-- Mon portfolio : [portfolio.ohevan.com](https://portfolio.ohevan.com)
+- Mon portfolio : [evan.studio](https://evan.studio)
 - Mon blog personnel : [ohevan.com](https://ohevan.com)
 
 Tu veux m'offrir un p'tit café pour soutenir mes travaux ? [Faire un don](/DONATE.md) <3
