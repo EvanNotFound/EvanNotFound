@@ -8,9 +8,11 @@
 
 # console.log("Hello 👋");
 
+
+
 `//zh`
 
-一名加拿大高中生，平时蛮闲的，主要前端开发 (HTML, CSS, Javascript, React, NextJS) 和 UI/UX 设计，学过一点 Python 和 C++。
+一名加拿大高中生，平时蛮闲的，主要做前端开发 (HTML, CSS, Javascript, React, NextJS) 和 UI/UX 设计，学过一点 Python 和 C++。
 
 如需了解更多关于我的信息和作品，请访问：
 - 个人 Portfolio：[evan.studio](https://evan.studio)
@@ -21,25 +23,25 @@
 
 `//en`
 
-I'm a high school student in Canada with a lot of free time. I like to spend it learning new things. In programming, I'm skilled in HTML, CSS and Javascript. WebUI design & Web Dev are my favorite. Python/C++? **only a little bit**. As a student who aimed to become an engineer, I can also use Solidworks(bad at it tho).
+I am a high school student based in Canada, specializing in front-end development (HTML, CSS, Javascript, React, NextJS) and UI/UX design.  I have a basic understanding of Python and C++. 
 
-For more projects about me, please see:
+For more information about me and my projects, please visit portfolio and blog:
 
 - My portfolio: [evan.studio](https://evan.studio)
 - My personal blog: [ohevan.com](https://ohevan.com)
 
-Buy me a coffee to support my works? [Donate](/DONATE.md) <3
+If you appreciate my work, feel free to follow me on Github or [donate](/DONATE.md). <3
 
 `//fr`
 
-J'suis un étudiant au secondaire au Canada avec pas mal de temps libre. J'aime le passer à apprendre de nouvelles affaires. En programmation, j'suis à l'aise avec HTML, CSS et JavaScript. J'ai une préférence pour le design d'interface web et le développement web. Python/C++ ? Un peu, mais juste ça. Comme étudiant qui aspire à devenir ingénieur, j'me débrouille aussi avec Solidworks (même si j'suis pas super bon).
+Je suis un étudiant au secondaire au Canada, spécialisé dans le développement front-end (HTML, CSS, Javascript, React, NextJS) et le design UI/UX. J'ai une compréhension de base de Python et C++. 
 
-Pour en savoir plus sur mes projets, y'a :
+Pour plus d'informations sur moi et mes projets, veuillez visiter mon site web personnel et mon blog:
 
 - Mon portfolio : [evan.studio](https://evan.studio)
 - Mon blog personnel : [ohevan.com](https://ohevan.com)
 
-Tu veux m'offrir un p'tit café pour soutenir mes travaux ? [Faire un don](/DONATE.md) <3
+Si vous appréciez mon travail, n'hésitez pas à me suivre sur Github ou à [faire un don](/DONATE.md). <3
 
 
 <h2 align="center">GitHub Stats</h2>
