@@ -71,7 +71,7 @@ Si vous appréciez mon travail, n'hésitez pas à me suivre sur Github ou à [fa
 
 <h2 align="center">Minecraft Hypixel Stats</h2>
 
-<p align="center">I love playing Minecraft。 Here are some of my stats on Hypixel server:</p>
+<p align="center">I love playing Minecraft. Here are some of my stats on the Hypixel server:</p>
 
 <div align="center">
   <img width="500px" src="https://gen.plancke.io/exp/6eek.png" alt="6eek's Minecraft Hypixel Experience"/>
