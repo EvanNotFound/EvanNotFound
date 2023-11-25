@@ -28,7 +28,7 @@ I am a high school student based in Canada, specializing in front-end developmen
 For more information about me and my projects, please visit portfolio and blog:
 
 - My portfolio: [evan.studio](https://evannotfound.com)
-- My personal blog: [ohevan.com](https://ohevan.com)
+- My personal blog: [ohevan.com](https://cirnosketchbook.com)
 
 If you appreciate my work, feel free to follow me on Github or [donate](/DONATE.md). <3
 
@@ -39,7 +39,7 @@ Je suis un étudiant au secondaire au Canada, spécialisé dans le développemen
 Pour plus d'informations sur moi et mes projets, veuillez visiter mon site web personnel et mon blog:
 
 - Mon portfolio : [evan.studio](https://evannotfound.com)
-- Mon blog personnel : [ohevan.com](https://ohevan.com)
+- Mon blog personnel : [ohevan.com](https://cirnosketchbook.com)
 
 Si vous appréciez mon travail, n'hésitez pas à me suivre sur Github ou à [faire un don](/DONATE.md). <3
 
