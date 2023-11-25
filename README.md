@@ -15,8 +15,9 @@
 一名加拿大高中生，平时蛮闲的，主要做前端开发 (HTML, CSS, Javascript, React, NextJS) 和 UI/UX 设计，学过一点 Python 和 C++。
 
 如需了解更多关于我的信息和作品，请访问：
-- 个人 Portfolio：[evan.studio](https://evannotfound.com)
+- 个人 Portfolio：[evannotfound.com](https://evannotfound.com)
 - 个人博客：[ohevan.com](https://ohevan.com)
+- 英文博客：[cirnosketchbook.com](https://cirnosketchbook.com)
 
 来都来了，Github 点个关注再走呗～ 同时[赞助](/DONATE.md)我是支持我努力下去的动力
 
@@ -27,8 +28,8 @@ I am a high school student based in Canada, specializing in front-end developmen
 
 For more information about me and my projects, please visit portfolio and blog:
 
-- My portfolio: [evan.studio](https://evannotfound.com)
-- My personal blog: [ohevan.com](https://cirnosketchbook.com)
+- My portfolio: [evannotfound.com](https://evannotfound.com)
+- My personal blog: [cirnosketchbook.com](https://cirnosketchbook.com)
 
 If you appreciate my work, feel free to follow me on Github or [donate](/DONATE.md). <3
 
@@ -39,7 +40,7 @@ Je suis un étudiant au secondaire au Canada, spécialisé dans le développemen
 Pour plus d'informations sur moi et mes projets, veuillez visiter mon site web personnel et mon blog:
 
 - Mon portfolio : [evan.studio](https://evannotfound.com)
-- Mon blog personnel : [ohevan.com](https://cirnosketchbook.com)
+- Mon blog personnel : [cirnosketchbook.com](https://cirnosketchbook.com)
 
 Si vous appréciez mon travail, n'hésitez pas à me suivre sur Github ou à [faire un don](/DONATE.md). <3
 
