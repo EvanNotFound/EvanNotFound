@@ -1,6 +1,6 @@
 <p align="center"> 
-  <a href="https://ohevan.com">
-    <img src="https://github.com/EvanNotFound/EvanNotFound/blob/main/assets/evan-logo-neon-webkit.svg">
+  <a href="https://evannotfound.com">
+    <img src="https://raw.githubusercontent.com/EvanNotFound/EvanNotFound/main/assets/evannotfound-logo-animated-v2.svg">
   </a>
 </p>
 
