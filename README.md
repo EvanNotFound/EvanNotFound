@@ -12,19 +12,19 @@
 
 `//zh`
 
-一名加拿大高中生，平时蛮闲的，主要做前端开发 (HTML, CSS, Javascript, React, NextJS) 和 UI/UX 设计，学过一点 Python 和 C++。
+CA 🇨🇦 高中生。前端/全栈开发 (HTML, CSS, Javascript, React, NextJS) 和 UI/UX 设计，以及 Python。
 
 如需了解更多关于我的信息和作品，请访问：
 - 个人 Portfolio：[evannotfound.com](https://evannotfound.com)
 - 个人博客：[ohevan.com](https://ohevan.com)
 - 英文博客：[cirnosketchbook.com](https://cirnosketchbook.com)
 
-来都来了，Github 点个关注再走呗～ 同时[赞助](/DONATE.md)我是支持我努力下去的动力
+来都来了，Github 点个关注再走呗～
 
 
 `//en`
 
-I am a high school student based in Canada, specializing in front-end development (HTML, CSS, Javascript, React, NextJS) and UI/UX design.  I have a basic understanding of Python and C++. 
+I am a high school student based in Canada, specializing in front-end development (HTML, CSS, Javascript, React, NextJS) and UI/UX design, as well as Python.
 
 For more information about me and my projects, please visit portfolio and blog:
 
@@ -35,7 +35,7 @@ If you appreciate my work, feel free to follow me on Github or [donate](/DONATE.
 
 `//fr`
 
-Je suis un étudiant au secondaire au Canada, spécialisé dans le développement front-end (HTML, CSS, Javascript, React, NextJS) et le design UI/UX. J'ai une compréhension de base de Python et C++. 
+Je suis un étudiant au secondaire au Canada, spécialisé dans le développement front-end (HTML, CSS, Javascript, React, NextJS) et le design UI/UX. J'ai une compréhension de base de Python. Croissant 🥐🥐🥐🥐🥐
 
 Pour plus d'informations sur moi et mes projets, veuillez visiter mon site web personnel et mon blog:
 
