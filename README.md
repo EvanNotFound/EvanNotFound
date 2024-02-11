@@ -24,9 +24,9 @@ CA 🇨🇦 高中生。前端/全栈开发 (HTML, CSS, Javascript, React, NextJ
 
 `//en`
 
-I am a high school student based in Canada, specializing in front-end development (HTML, CSS, Javascript, React, NextJS) and UI/UX design, as well as Python.
+I am a high school student based in Canada, specializing in front-end/full-stack development (HTML, CSS, Javascript, React, NextJS) and UI/UX design, as well as Python.
 
-For more information about me and my projects, please visit portfolio and blog:
+For more information about me and my projects, please visit my portfolio and blogs:
 
 - My portfolio: [evannotfound.com](https://evannotfound.com)
 - My personal blog: [cirnosketchbook.com](https://cirnosketchbook.com)
