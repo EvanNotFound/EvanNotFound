@@ -91,23 +91,3 @@ Si vous appréciez mon travail, n'hésitez pas à me suivre sur Github ou à [fa
 </div>
 
 
-<h2 align="center">Minecraft Hypixel Stats</h2>
-
-<p align="center">I love playing Minecraft. Here are some of my stats on the Hypixel server:</p>
-
-<div align="center">
-  <img width="500px" src="https://gen.plancke.io/exp/6eek.png" alt="6eek's Minecraft Hypixel Experience"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img width="500px" src="https://gen.plancke.io/achievementPoints/6eek.png" alt="6eek's Minecraft Hypixel Achievement Points"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://hypixel.paniek.de/signature/9056c9b7f68e4382b3387bb8d90b5e6f/general-tooltip" alt="Hypixel Bedwars Stats"/>
-</div>
-
