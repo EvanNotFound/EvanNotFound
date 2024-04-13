@@ -12,7 +12,14 @@
 
 `//zh`
 
-CA 🇨🇦 高中生。前端/全栈开发 (HTML, CSS, Javascript, React, NextJS) 和 UI/UX 设计，以及 Python。
+CA 🇨🇦 学生。
+
+前端/全栈开发，UI/UX 设计
+- HTML, CSS, Javascript
+- React, NextJS
+- GSAP, Framer Motion
+- ExpressJS, FastAPI
+- Sketch, Figma
 
 如需了解更多关于我的信息和作品，请访问：
 - 个人 Portfolio：[evannotfound.com](https://evannotfound.com)
@@ -24,23 +31,37 @@ CA 🇨🇦 高中生。前端/全栈开发 (HTML, CSS, Javascript, React, NextJ
 
 `//en`
 
-I am a high school student based in Canada, specializing in front-end/full-stack development (HTML, CSS, Javascript, React, NextJS) and UI/UX design, as well as Python.
+🇨🇦 Student
+
+I mainly do front-end/full-stack development, UI/UX design:
+- HTML, CSS, Javascript
+- React, NextJS
+- GSAP, Framer Motion
+- ExpressJS, FastAPI
+- Sketch, Figma
 
 For more information about me and my projects, please visit my portfolio and blogs:
 
 - My portfolio: [evannotfound.com](https://evannotfound.com)
-- My personal blog: [cirnosketchbook.com](https://cirnosketchbook.com)
+- My blog: [cirnosketchbook.com](https://cirnosketchbook.com)
 
 If you appreciate my work, feel free to follow me on Github or [donate](/DONATE.md). <3
 
 `//fr`
 
-Je suis un étudiant au secondaire au Canada, spécialisé dans le développement front-end (HTML, CSS, Javascript, React, NextJS) et le design UI/UX. J'ai une compréhension de base de Python. Croissant 🥐🥐🥐🥐🥐
+Un étudiant au Canada 🇨🇦🥐🥐🥐.
 
-Pour plus d'informations sur moi et mes projets, veuillez visiter mon site web personnel et mon blog:
+Je fais principalement du développement front-end et du design UI/UX :
+- HTML, CSS, Javascript
+- React, NextJS
+- GSAP, Framer Motion
+- ExpressJS, FastAPI
+- Sketch, Figma
+
+Pour plus d'informations sur moi et mes projets, veuillez visiter mon portfolio et mon blog :
 
 - Mon portfolio : [evan.studio](https://evannotfound.com)
-- Mon blog personnel : [cirnosketchbook.com](https://cirnosketchbook.com)
+- Mon blog : [cirnosketchbook.com](https://cirnosketchbook.com)
 
 Si vous appréciez mon travail, n'hésitez pas à me suivre sur Github ou à [faire un don](/DONATE.md). <3
 
