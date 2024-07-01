@@ -4,11 +4,7 @@
   </a>
 </p>
 
-
-
 # console.log("Hello 👋");
-
-
 
 `//zh`
 
@@ -25,9 +21,9 @@ CA 🇨🇦 学生。
 - 个人 Portfolio：[evannotfound.com](https://evannotfound.com)
 - 个人博客：[ohevan.com](https://ohevan.com)
 - 英文博客：[cirnosketchbook.com](https://cirnosketchbook.com)
+- 情感指南：[一个自以为是的情感指南](https://relationship.ohevan.com)
 
 来都来了，Github 点个关注再走呗～
-
 
 `//en`
 
