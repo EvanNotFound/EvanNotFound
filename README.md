@@ -58,7 +58,7 @@ Je fais principalement du développement front-end et du design UI/UX :
 
 Pour plus d'informations sur moi et mes projets, veuillez visiter mon portfolio et mon blog :
 
-- Mon portfolio : [evan.studio](https://evannotfound.com)
+- Mon portfolio : [evannotfound.com](https://evannotfound.com)
 - Mon blog : [cirnosketchbook.com](https://cirnosketchbook.com)
 
 Si vous appréciez mon travail, n'hésitez pas à me suivre sur Github ou à [faire un don](/DONATE.md). <3
