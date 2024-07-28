@@ -18,9 +18,8 @@ CA 🇨🇦 学生。
 - Sketch, Figma
 
 如需了解更多关于我的信息和作品，请访问：
-- 个人 Portfolio：[evannotfound.com](https://evannotfound.com)
+- 个人 Portfolio / 博客：[evannotfound.com](https://evannotfound.com)
 - 个人博客：[ohevan.com](https://ohevan.com)
-- 英文博客：[cirnosketchbook.com](https://cirnosketchbook.com)
 - 情感指南：[一个自以为是的情感指南](https://relationship.ohevan.com)
 
 来都来了，Github 点个关注再走呗～
@@ -40,8 +39,7 @@ I mainly do front-end/full-stack development, UI/UX design:
 
 For more information about me and my projects, please visit my portfolio and blogs:
 
-- My portfolio: [evannotfound.com](https://evannotfound.com)
-- My blog: [cirnosketchbook.com](https://cirnosketchbook.com)
+- My portfolio / blog: [evannotfound.com](https://evannotfound.com)
 
 If you appreciate my work, feel free to follow me on Github or [donate](/DONATE.md). <3
 
@@ -58,8 +56,7 @@ Je fais principalement du développement front-end et du design UI/UX :
 
 Pour plus d'informations sur moi et mes projets, veuillez visiter mon portfolio et mon blog :
 
-- Mon portfolio : [evannotfound.com](https://evannotfound.com)
-- Mon blog : [cirnosketchbook.com](https://cirnosketchbook.com)
+- Mon portfolio / blog : [evannotfound.com](https://evannotfound.com)
 
 Si vous appréciez mon travail, n'hésitez pas à me suivre sur Github ou à [faire un don](/DONATE.md). <3
 
