@@ -18,7 +18,7 @@ CA 🇨🇦 学生。
 - Sketch, Figma
 
 如需了解更多关于我的信息和作品，请访问：
-- 个人 Portfolio / 博客：[evannotfound.com](https://evannotfound.com)
+- 个人 Portfolio / 英文博客：[evannotfound.com](https://evannotfound.com)
 - 个人博客：[ohevan.com](https://ohevan.com)
 - 情感指南：[一个自以为是的情感指南](https://relationship.ohevan.com)
 
