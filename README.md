@@ -24,7 +24,7 @@ CA 🇨🇦 学生。
 
 来都来了，Github 点个关注再走呗～
 
-我的爱发电：https://afdian.net/a/evannotfound
+或者，[赞助我](https://evannotfound.com/sponsor)
 
 `//en`
 
@@ -41,7 +41,7 @@ For more information about me and my projects, please visit my portfolio and blo
 
 - My portfolio / blog: [evannotfound.com](https://evannotfound.com)
 
-If you appreciate my work, feel free to follow me on Github or [donate](/DONATE.md). <3
+If you appreciate my work, feel free to follow me on Github or [donate](https://evannotfound.com/sponsor). <3
 
 `//fr`
 
@@ -58,7 +58,7 @@ Pour plus d'informations sur moi et mes projets, veuillez visiter mon portfolio 
 
 - Mon portfolio / blog : [evannotfound.com](https://evannotfound.com)
 
-Si vous appréciez mon travail, n'hésitez pas à me suivre sur Github ou à [faire un don](/DONATE.md). <3
+Si vous appréciez mon travail, n'hésitez pas à me suivre sur Github ou à [faire un don](https://evannotfound.com/sponsor). <3
 
 
 <h2 align="center">GitHub Stats</h2>
