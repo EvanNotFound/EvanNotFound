@@ -76,7 +76,7 @@ Si vous appréciez mon travail, n'hésitez pas à me suivre sur Github ou à [fa
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=EvanNotFound&theme=flat&column=4&margin-w=15&margin-h=15&no-frame=false&rank=-C,-B&no-bg=true" alt="Evan's GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=EvanNotFound&theme=flat&column=4&row=3&margin-w=15&margin-h=15&no-frame=false&rank=-C,-B&no-bg=true" alt="Evan's GitHub Trophies"/>
 </div>
 
 <br>
