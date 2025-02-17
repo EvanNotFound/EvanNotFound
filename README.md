@@ -21,7 +21,6 @@ CA 🇨🇦 学生。
 - 个人 Portfolio / 英文博客：[evannotfound.com](https://evannotfound.com)
 - 个人博客：[ohevan.com](https://ohevan.com)
 - 情感指南：[一个自以为是的情感指南](https://relationship.ohevan.com)
-- ChatGPT Plus 共享：[gptplus.ca](https://www.gptplus.ca/home)
 
 来都来了，Github 点个关注再走呗～
 
