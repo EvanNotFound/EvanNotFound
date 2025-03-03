@@ -4,62 +4,34 @@
   </a>
 </p>
 
-# console.log("Hello 👋");
-
-`//zh`
-
-CA 🇨🇦 学生。
-
-前端/全栈开发，UI/UX 设计
-- HTML, CSS, Javascript
-- React, NextJS
-- GSAP, Framer Motion
-- ExpressJS, FastAPI
-- Sketch, Figma
-
-如需了解更多关于我的信息和作品，请访问：
-- 个人 Portfolio / 英文博客：[evannotfound.com](https://evannotfound.com)
-- 个人博客：[ohevan.com](https://ohevan.com)
-- 情感指南：[一个自以为是的情感指南](https://relationship.ohevan.com)
-
-来都来了，Github 点个关注再走呗～
-
-或者，[赞助我](https://evannotfound.com/sponsor)
+# console.log("hello 👋");
 
 `//en`
 
-🇨🇦 Student
+Front-end / full-stack developer based in Montreal, Canada 🇨🇦
 
-I mainly do front-end/full-stack development, UI/UX design:
-- HTML, CSS, Javascript
-- React, NextJS
-- GSAP, Framer Motion
-- ExpressJS, FastAPI
-- Sketch, Figma
+I craft beautifully designed websites.
 
-For more information about me and my projects, please visit my portfolio and blogs:
+- HTML, CSS, Javascript, Typescript, Python
+- React, NextJS, ExpressJS, FastAPI, TailwindCSS
+- Framer Motion, GSAP, Figma, Sketch
 
-- My portfolio / blog: [evannotfound.com](https://evannotfound.com)
+Here are the stuff I've made: [evannotfound.com/work](https://evannotfound.com/work).
 
-If you appreciate my work, feel free to follow me on Github or [donate](https://evannotfound.com/sponsor). <3
+For work inquiries, feel free to [contact me](https://evannotfound.com/contact).
 
-`//fr`
+`//zh`
 
-Un étudiant au Canada 🇨🇦🥐🥐🥐.
+前端/全栈开发，UI/UX 设计
 
-Je fais principalement du développement front-end et du design UI/UX :
-- HTML, CSS, Javascript
-- React, NextJS
-- GSAP, Framer Motion
-- ExpressJS, FastAPI
-- Sketch, Figma
+- HTML, CSS, Javascript, Typescript, Python
+- React, NextJS, ExpressJS, FastAPI, TailwindCSS
+- Framer Motion, GSAP, Figma, Sketch
 
-Pour plus d'informations sur moi et mes projets, veuillez visiter mon portfolio et mon blog :
+了解更多关于我的信息和作品，请访问：
 
-- Mon portfolio / blog : [evannotfound.com](https://evannotfound.com)
-
-Si vous appréciez mon travail, n'hésitez pas à me suivre sur Github ou à [faire un don](https://evannotfound.com/sponsor). <3
-
+- 个人 Portfolio / 博客：[evannotfound.com](https://evannotfound.com)
+- 个人中文博客：[ohevan.com](https://ohevan.com)
 
 <h2 align="center">GitHub Stats</h2>
 
