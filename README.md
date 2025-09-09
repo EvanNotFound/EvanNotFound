@@ -10,6 +10,8 @@
 
 Front-end / full-stack developer based in Montreal, Canada 🇨🇦
 
+Currently, working on [pwno.io](https://pwno.io).
+
 I craft beautifully designed websites.
 
 - HTML, CSS, Javascript, Typescript, Python
