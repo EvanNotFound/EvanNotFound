@@ -38,7 +38,7 @@ For work inquiries, feel free to [contact me](https://evannotfound.com/contact).
 <h2 align="center">GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EvanNotFound&show_icons=true&count_private=true&hide_border=false&theme=flat&no-bg=true" alt="Evan's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=EvanNotFound&show_icons=true&count_private=true&hide_border=false&no-bg=true" alt="Evan's GitHub Stats"/>
 </div>
 
 <br>
