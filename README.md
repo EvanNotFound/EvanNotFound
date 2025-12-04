@@ -38,19 +38,19 @@ For work inquiries, feel free to [contact me](https://evannotfound.com/contact).
 <h2 align="center">GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EvanNotFound&show_icons=true&count_private=true&hide_border=false&no-bg=true" alt="Evan's GitHub Stats"/>
+  <img src="https://evannotfound-github-stats.vercel.app/api?username=EvanNotFound&show_icons=true&count_private=true&hide_border=false&no-bg=true" alt="Evan's GitHub Stats"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvanNotFound&layout=compact&hide_border=false&no-bg=true" alt="Evan's Top Languages"/>
+  <img src="https://evannotfound-github-stats.vercel.app/api/top-langs/?username=EvanNotFound&layout=compact&hide_border=false&no-bg=true" alt="Evan's Top Languages"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=EvanNotFound&column=4&row=2&margin-w=15&margin-h=15&no-frame=false&rank=-C,-B&no-bg=true" alt="Evan's GitHub Trophies"/>
+  <img src="https://evannotfound-github-stats.vercel.app/?username=EvanNotFound&column=4&row=2&margin-w=15&margin-h=15&no-frame=false&rank=-C,-B&no-bg=true" alt="Evan's GitHub Trophies"/>
 </div>
 
 <br>
