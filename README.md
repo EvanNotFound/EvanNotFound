@@ -43,9 +43,9 @@ For work inquiries, feel free to [contact me](https://evannotfound.com/contact).
 
 <br>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://evannotfound-github-stats.vercel.app/api/top-langs/?username=EvanNotFound&layout=compact&hide_border=false&no-bg=true&theme=transparent" alt="Evan's Top Languages"/>
-</div>
+</div> -->
 
 <br>
 
