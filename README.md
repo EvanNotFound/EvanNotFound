@@ -16,9 +16,9 @@ tools I use to ship:
 - opencode, augment code, cursor
 - langchain, langgraph
 
-work inquiries please [contact me](https://evannotfound.com/contact).
+for work inquiries, please [contact me](https://evannotfound.com/contact).
 
-中文博客 [ohevan.com](https://ohevan.com)
+中文博客在 [ohevan.com](https://ohevan.com)
 
 
 some tasty stats 🍕
