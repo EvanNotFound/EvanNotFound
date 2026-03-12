@@ -4,49 +4,24 @@
   </a>
 </p>
 
-# console.log("hello 👋");
+founder, ui/ux, front-end / full-stack developer. i like shipping saas, building products people love, and most importantly, i love.
 
-`//en`
+check out stuff i've made on [evannotfound.com](https://evannotfound.com).
 
-Front-end / full-stack developer based in Montreal, Canada 🇨🇦
+tools I use to ship:
 
-Currently, working on [pwno.io](https://pwno.io).
+- next.js, fastapi, fastmcp
+- better-auth
+- vercel, kamal
+- opencode, augment code, cursor
+- langchain, langgraph
 
-I craft beautifully designed websites.
+work inquiries please [contact me](https://evannotfound.com/contact).
 
-- HTML, CSS, Javascript, Typescript, Python
-- React, NextJS, ExpressJS, FastAPI, TailwindCSS
-- Framer Motion, GSAP, Figma, Sketch
+中文博客 [ohevan.com](https://ohevan.com)
 
-Here are the stuff I've made: [evannotfound.com/work](https://evannotfound.com/work).
 
-For work inquiries, feel free to [contact me](https://evannotfound.com/contact).
+some tasty stats 🍕
 
-`//zh`
-
-前端/全栈开发，UI/UX 设计
-
-- HTML, CSS, Javascript, Typescript, Python
-- React, NextJS, ExpressJS, FastAPI, TailwindCSS
-- Framer Motion, GSAP, Figma, Sketch
-
-了解更多关于我的信息和作品，请访问：
-
-- 个人 Portfolio / 博客：[evannotfound.com](https://evannotfound.com)
-- 个人中文博客：[ohevan.com](https://ohevan.com)
-
-<h2 align="center">GitHub Stats</h2>
-
-<div align="center">
-  <img src="https://evannotfound-github-stats.vercel.app/api?username=EvanNotFound&show_icons=true&count_private=true&hide_border=false&no-bg=true&theme=transparent" alt="Evan's GitHub Stats"/>
+<img src="https://evannotfound-github-stats.vercel.app/api?username=EvanNotFound&show_icons=true&count_private=true&hide_border=false&no-bg=true&theme=transparent" alt="Evan's GitHub Stats"/>
 </div>
-
-<br>
-
-<!-- <div align="center">
-  <img src="https://evannotfound-github-stats.vercel.app/api/top-langs/?username=EvanNotFound&layout=compact&hide_border=false&no-bg=true&theme=transparent" alt="Evan's Top Languages"/>
-</div> -->
-
-<br>
-
-
