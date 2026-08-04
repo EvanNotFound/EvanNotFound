@@ -4,7 +4,7 @@
   </a>
 </p>
 
-founder, ui/ux, front-end / full-stack developer. i like shipping saas, building products people love, and most importantly, i love.
+founder, ui/ux, front-end / full-stack developer. i design, build and ship software with ❤️.
 
 check out stuff i've made on [evannotfound.com](https://evannotfound.com).
 
@@ -13,7 +13,7 @@ tools I use to ship:
 - next.js, fastapi, fastmcp
 - better-auth
 - vercel, kamal
-- opencode, augment code, cursor
+- opencode, augment code, zed
 - langchain, langgraph
 
 for work inquiries, please [contact me](https://evannotfound.com/contact).
